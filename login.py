@@ -7,9 +7,9 @@ def login():
             if(password=='admin'):
                 return 1
             else:
-                print("wrong password")
+                print("wrong password bro")
         else:
-            print("Wrong username")
+            print("Wrong username bro")
         i=i+1
     else:
-        print("You have tried maximum 3 attempts")
+        print("You have tried maximum 3 attempts bro")
